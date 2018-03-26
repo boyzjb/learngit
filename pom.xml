@@ -41,12 +41,13 @@
 				<version>2.1.1</version>  
 
 				<configuration>  
-					<!--指定web.xml的路径  
+			
 					<webXml>WebContent\WEB-INF\web.xml</webXml>  
-					<!--指定jsp、js、css的路劲  
+				
 					<warSourceDirectory>WebContent</warSourceDirectory>  
 				</configuration>  
-			</plugin>  -->
+			</plugin>  
+			-->
 			<plugin>
 				<groupId>org.apache.tomcat.maven</groupId>
 				<artifactId>tomcat7-maven-plugin</artifactId>
