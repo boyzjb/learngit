@@ -53,11 +53,11 @@
 					<url>http://192.168.3.110:8080/manager</url>
 					<path>/</path>
 					<server>tomcat</server>
-					<username>admin/username>
-						<password>admin</password>
-					</configuration>
-				</plugin>
-			</plugins>  
-		</build>
+					<username>admin</username>
+					<password>admin</password>
+				</configuration>
+			</plugin>
+		</plugins>  
+	</build>
 
 </project>  
